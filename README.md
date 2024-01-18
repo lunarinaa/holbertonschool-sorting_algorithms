@@ -111,5 +111,6 @@ Function Prototypes:
 
 # AUTHORS
 
-Aydan Jafarli <7417@holbertonstudents.com>
-Yashar Heyderov <7741@holbertonstudents.com>
+- Aydan Jafarli <7417@holbertonstudents.com>
+
+- Yashar Heyderov <7741@holbertonstudents.com>
